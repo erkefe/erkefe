@@ -5,7 +5,6 @@ Hi, I'm Erkan Efe <a href="https://selinoykunergiz.com/"><img src="https://media
 
 - 🌱 I’m currently learning **ASP.NET, Express**
 
-- 💬 Ask me about **CSS**
 
 
 
