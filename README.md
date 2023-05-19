@@ -6,8 +6,6 @@ Hi, I'm Erkan Efe <a href="https://selinoykunergiz.com/"><img src="https://media
 
 
 
-
-
 IDE
 <p>
   <img src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' width='32' title='Visual Studio Code'>
